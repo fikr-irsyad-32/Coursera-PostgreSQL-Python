@@ -1,4 +1,4 @@
-P* linguist-language=Python
-S* linguist-language=PLpgSQL
+*.py linguist-language=Python
+*.sql linguist-language=PLpgSQL
 
 
